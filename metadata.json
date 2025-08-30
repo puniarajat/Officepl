@@ -1,0 +1,7 @@
+{
+  "name": "Office Pal",
+  "description": "An application to help colleagues in the same office building connect based on shared interests and hobbies. Users can browse profiles, match with others, and start conversations with AI-generated icebreakers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

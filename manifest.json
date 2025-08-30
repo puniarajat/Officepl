@@ -1,0 +1,17 @@
+{
+  "name": "Office Pal",
+  "short_name": "Pal",
+  "description": "An application to help colleagues connect based on shared interests.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
